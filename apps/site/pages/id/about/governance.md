@@ -7,7 +7,7 @@ layout: about
 
 ## Proses Pencarian Kesepakatan
 
-Proyek Node.js mengikuti model pengambilan keputusan [Pencarian Konsensus][].
+Proyek Node.js mengikuti model pengambilan keputusan [Pencarian Konsensus] [].
 
 ## Kolaborator
 
@@ -24,9 +24,9 @@ Panduan untuk Kolaborator disimpan di [collaborator-guide.md][].
 
 Proyek ini diatur oleh [Komite Pengarah Teknis][] dalam bahasa inggris Technical Steering Committee (TSC) yang bertanggung jawab atas panduan tingkat tinggi proyek. TSC adalah bagian dari Kolaborator aktif yang dinominasikan oleh anggota TSC lain yang sudah ada.
 
-[pencarian konsensus]: https://id.wikipedia.org/wiki/Musyawarah
+[consensus seeking]: https://id.wikipedia.org/wiki/Musyawarah
 [readme.md]: https://github.com/nodejs/node/blob/main/README.md#current-project-team-members
 [tsc]: https://github.com/nodejs/TSC
-[komite pengarah teknis]: https://github.com/nodejs/TSC/blob/main/TSC-Charter.md
+[technical steering committee (tsc)]: https://github.com/nodejs/TSC/blob/main/TSC-Charter.md
 [collaborator-guide.md]: https://github.com/nodejs/node/blob/main/doc/contributing/collaborator-guide.md
 [nodejs/node]: https://github.com/nodejs/node
